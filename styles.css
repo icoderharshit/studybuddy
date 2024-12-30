@@ -5,9 +5,15 @@ body{
     background-size: cover;
 }
 
-.main{
+/* .main{
     min-height: 100vh;
+} */
+
+#cs-title{
+    display: flex;
+    flex-direction: column;
 }
+
 
 .img-logo{
     background-image: url("./studybuddy_logo.png");
